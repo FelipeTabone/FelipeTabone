@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Felipe Tabone 👋​
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-andrade-tabone-130a841b8/)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeTabone&show_icons=true&theme=onedark)
 
 
@@ -15,6 +13,7 @@
 Atualmente no mercado de trabalho como Suporte.
 
 ### Contatos:
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-andrade-tabone-130a841b8/)
 
 - ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</br> felipea.tabone@gmail.com
 
